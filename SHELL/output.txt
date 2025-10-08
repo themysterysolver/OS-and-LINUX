@@ -1,0 +1,18 @@
+Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners.pdf
+Bash scripting cheatsheet.pdf
+Makefile
+folder_1
+folder_10
+folder_2
+folder_3
+folder_4
+folder_5
+folder_6
+folder_7
+folder_8
+folder_9
+folder_create.sh
+hello.sh
+list_folders.sh
+output.txt
+output1.txt
